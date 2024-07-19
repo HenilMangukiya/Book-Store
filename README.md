@@ -89,3 +89,7 @@ At 4th day i learned about Authentication system using firebase and how to imple
 
 **Day-5(14/06/2024)**:
 At 5th day i continued with my sign-up and sign-in page and completed it and i stared working on the CSS of the whole project whereever i needed to change CSS i changed it and alos i implemented logout and product functionality. And i finally completed my project and went to my guide to show my project and also i shared my internship experience with the founder of the company.
+
+
+------------**VIDEO LINK**-------------:
+https://drive.google.com/file/d/1u5uAU6UK76IfWYAGaMqsgB2O24S2ZOQg/view?usp=sharing
